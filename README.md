@@ -5,7 +5,7 @@
 
 <p>Hello! I'm <strong>Esraa</strong>. I love building innovative solutions that bridge <strong>AI and real-world applications</strong>, from <strong>smart IoT systems</strong> to <strong>AI-powered tools</strong>.</p>  
 
-<h2>🔥 What I Do</h2>  
+<h2> What I Do</h2>  
 <p>🌍 <strong>AI & Machine Learning</strong> – Using <strong>Scikit-learn</strong> and <strong>Keras</strong> <br>  
 🛠️ <strong>Software Development</strong> – Developing with <strong>Python, Java, and Streamlit</strong> <br>  
 🌱 <strong>IoT & Embedded Systems</strong> – Worked on <strong>smart agriculture & automation projects</strong> </p>  
